@@ -1,0 +1,40 @@
+Timestamp,Node Name,Date,Time,Day of the week,subscriber_count,N2_s1mme_total,N12_s6ad_Total,N11_S11_Total,NT_AMF_PCMD,Total_PCMD,TSNE1,TSNE2,KMeans,AgglomerativeClustering,DBSCAN,MeanShift,SpectralClustering,AffinityPropagation,OPTICS,Birch,GaussianMixture
+15-04-2024 13:14,AMF-INFRA,15-04-2024,13:14:28,Monday,1,34,2,1,7,7,-2.6405115,-6.2322803,Major,Trivial,Critical,,Critical,Trivial,Major,Trivial,Major
+15-04-2024 13:14,AMF-SLAB-BLR,15-04-2024,13:14:28,Monday,7,18,2,2,0,0,-2.7001252,-5.933683,Major,Major,Critical,Trivial,Critical,Trivial,Major,Major,Major
+15-04-2024 13:14,AMF-GUMPERT-SRN-BLR,15-04-2024,13:14:28,Monday,0,3,0,0,0,0,-2.0466962,-6.6471095,Trivial,Trivial,Critical,,Trivial,,Blocker,Trivial,Trivial
+15-04-2024 13:14,TC4-CMM-BILLA-SRN-BLR,15-04-2024,13:14:28,Monday,105,273,3,7,0,2731,-3.3913014,-4.609918,Critical,Critical,Blocker,Major,Major,Major,Critical,Critical,Critical
+15-04-2024 13:14,cMM_AMF-Blackbird-SRN-BLR,15-04-2024,13:14:28,Monday,0,3,0,0,0,0,-2.0466962,-6.6471095,Trivial,Trivial,Critical,,Trivial,,Blocker,Trivial,Trivial
+15-04-2024 13:14,CMM-INOX,15-04-2024,13:14:28,Monday,12,18,4,1,0,38,-3.3517356,-6.293185,Major,Major,Critical,,Critical,,Trivial,Major,Major
+15-04-2024 13:14,CMM-SLAB-SRN-BLR,15-04-2024,13:14:28,Monday,9,19,1,1,0,40,-2.298326,-6.2439303,Trivial,Trivial,Critical,,Trivial,Trivial,Blocker,Trivial,Major
+15-04-2024 13:14,TC4-CMM-DOLLY-SRN-BLR,15-04-2024,13:14:28,Monday,54,23,3,3,0,36,-3.1273475,-5.673788,Critical,Major,Critical,Trivial,Critical,Critical,Blocker,Major,Major
+15-04-2024 13:14,AMF-KODIAQ-SRN-BLR,15-04-2024,13:14:28,Monday,228,250,2,2,747,747,-2.58353,-5.4572167,Critical,Major,Critical,Trivial,Critical,Trivial,Major,Major,Major
+15-04-2024 13:14,TCMM-Nexon-SRN-BLR,15-04-2024,07:44:28,Monday,2,15,2,1,0,44,-2.6473253,-6.2797565,Major,Trivial,Critical,,Critical,Trivial,Major,Trivial,Major
+15-04-2024 13:14,CMM-LOKI-NCS,15-04-2024,10:44:31,Monday,0,0,2,1,0,0,-2.6499913,-6.318125,Major,Trivial,Critical,,Critical,Trivial,Major,Trivial,Major
+15-04-2024 13:14,NSA-06-CMM,15-04-2024,10:44:31,Monday,9,12,3,1,0,20,-3.057264,-6.289229,Major,Major,Critical,,Critical,Trivial,Trivial,Major,Major
+15-04-2024 13:14,AMF-03-B,15-04-2024,10:44:31,Monday,0,0,0,0,0,0,-2.0472558,-6.650701,Trivial,Trivial,Critical,,Trivial,,Blocker,Trivial,Trivial
+15-04-2024 13:14,AMF-SA-05,15-04-2024,10:44:30,Monday,11,30,0,1,32,32,-2.0169916,-6.2603636,Trivial,Trivial,Critical,,Trivial,,Blocker,Trivial,Trivial
+15-04-2024 13:14,CMM-NSA-04,15-04-2024,10:44:31,Monday,24,35,3,1,0,590,-3.0513775,-6.250187,Major,Major,Critical,,Critical,Trivial,Trivial,Major,Major
+15-04-2024 13:14,AMF3,15-04-2024,10:44:31,Monday,301,150,2,2,4804,4804,-2.666564,-5.6948967,Major,Major,Critical,Trivial,Critical,Trivial,Major,Major,Major
+15-04-2024 13:14,AMF-SA-07,15-04-2024,10:44:31,Monday,16,31,2,2,15,15,-2.7021759,-5.912509,Major,Major,Critical,Trivial,Critical,Trivial,Major,Major,Major
+15-04-2024 13:14,CMM-JOKI-RACK1,15-04-2024,10:44:31,Monday,37543,48,2,1,0,3313024,-4.38726,-6.185432,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker
+15-04-2024 13:14,cmm-apple-187,15-04-2024,10:44:31,Monday,18,0,4,0,0,305,-3.296718,-6.659568,Major,Major,Critical,,Critical,,Trivial,Major,Major
+15-04-2024 13:14,CMM1,15-04-2024,10:44:31,Monday,94,2,3,1,0,207,-3.0582862,-6.306925,Major,Major,Critical,,Critical,Trivial,Trivial,Major,Major
+15-04-2024 13:14,CMM-12-SRN-OULU,15-04-2024,10:44:31,Monday,42851,195,3,3,0,1586912,-4.1612253,-5.791192,Blocker,Blocker,Critical,Blocker,Blocker,Blocker,Critical,Blocker,Blocker
+15-04-2024 13:14,CMM3 TA,15-04-2024,10:44:34,Monday,670,98,3,4,0,28939,-3.2013397,-5.369299,Critical,Major,Critical,Critical,Critical,Critical,Blocker,Major,Critical
+15-04-2024 13:14,CMM-01-B-SRN-ESPOO,15-04-2024,10:44:31,Monday,0,0,3,0,0,0,-2.9810503,-6.6858845,Major,Major,Critical,,Critical,,Trivial,Major,Major
+15-04-2024 13:14,CMM03-B-SRN-Espoo,15-04-2024,10:44:31,Monday,0,0,3,0,0,0,-2.9810503,-6.6858845,Major,Major,Critical,,Critical,,Trivial,Major,Major
+15-04-2024 13:14,CMM-LEO,15-04-2024,10:44:30,Monday,20,49,6,5,35,88,-3.7654674,-5.1007185,Critical,Critical,Critical,Critical,Major,Critical,Critical,Critical,Critical
+15-04-2024 13:14,CMM-VIVAN-NCS,15-04-2024,10:44:31,Monday,1,1,6,3,0,0,-3.7525449,-5.543606,Critical,Critical,Critical,Critical,Critical,Critical,Critical,Blocker,Critical
+15-04-2024 13:14,CMM-PETUNIA-SRN-ESPOO,15-04-2024,10:44:30,Monday,0,2,3,0,0,0,-2.9814093,-6.6834397,Major,Major,Critical,,Critical,,Trivial,Major,Major
+15-04-2024 13:14,CMM-JERRY-NCS,15-04-2024,10:44:31,Monday,0,0,2,0,0,0,-2.6358902,-6.688624,Major,Trivial,Critical,,Critical,Trivial,Blocker,Trivial,Major
+15-04-2024 13:14,CMM-STINGRAY-SRN-ESPOO,15-04-2024,10:44:30,Monday,0,8,0,0,0,0,-2.0436597,-6.637891,Trivial,Trivial,Critical,,Trivial,,Blocker,Trivial,Trivial
+15-04-2024 13:14,CMM-JACK-SRN-ESPOO,15-04-2024,10:44:34,Monday,4,14,0,1,1,1,-2.0167534,-6.2866964,Trivial,Trivial,Critical,,Trivial,,Blocker,Trivial,Trivial
+15-04-2024 13:14,CMM-SPARROW,15-04-2024,10:44:31,Monday,57,17,2,2,0,914,-2.701501,-5.934773,Major,Major,Critical,Trivial,Critical,Trivial,Major,Major,Major
+15-04-2024 13:14,AMF NALA,15-04-2024,10:44:30,Monday,352,630,4,4,1604,1604,-3.4099736,-4.312053,Critical,Critical,Blocker,Major,Major,Major,Blocker,Critical,Critical
+15-04-2024 13:14,CMM-JAMES-SRN-ESPOO,15-04-2024,10:44:31,Monday,0,8,6,0,0,0,-3.7424626,-6.643392,Major,Major,Critical,,Critical,,Trivial,Major,Major
+15-04-2024 13:14,AMF_JIll,15-04-2024,10:44:30,Monday,132,298,8,4,506,506,-3.9135547,-4.754154,Critical,Critical,Blocker,Major,Major,Critical,Blocker,Critical,Critical
+15-04-2024 13:14,CMM-SUN,15-04-2024,10:44:30,Monday,4,16,4,3,0,11,-3.3744094,-5.6683726,Critical,Major,Critical,Critical,Critical,Critical,Critical,Major,Critical
+15-04-2024 13:14,CMM-NIKE-181,15-04-2024,10:44:30,Monday,377,646,5,8,0,4183,-3.4668944,-4.2835455,Critical,Critical,Blocker,Major,Major,Major,Blocker,Critical,Critical
+15-04-2024 13:14,CMM-SIMA-NCS,15-04-2024,10:44:35,Monday,3543,6,4,5,105827,105827,-3.5290146,-5.2538533,Critical,Critical,Critical,Critical,Critical,Critical,Critical,Critical,Critical
+15-04-2024 13:14,CMM-11-SRN-OULU,15-04-2024,10:44:31,Monday,147746,524,6,5,2624235,5703175,-4.836145,-5.788583,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker,Blocker
+15-04-2024 13:14,CMM-PUMA-SRN-ESPOO,15-04-2024,10:44:31,Monday,0,0,5,0,0,0,-3.5421083,-6.660706,Major,Major,Critical,,Critical,,Trivial,Major,Major
