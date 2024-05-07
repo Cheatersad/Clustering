@@ -1,0 +1,40 @@
+Node Name,subscriber_count,N2_s1mme_total,N11_s11_total,N12_s6ad_total,PCMD_total,KMeans,Agglomerative,GMM,KMeans_T,Agglomerative_T,GMM_T,resultant_column,tsne_1,tsne_2
+CMM-11-SRN-OULU,147746,528,5,6,5703175,4,4,1,Blocker,Blocker,Blocker,Blocker,10.036181,3.7560518
+CMM-JOKI-RACK1,37543,48,1,2,3313024,4,4,1,Blocker,Blocker,Blocker,Blocker,10.094677,3.8042705
+CMM-12-SRN-OULU,42851,199,3,3,1586912,4,4,1,Blocker,Blocker,Blocker,Blocker,10.379948,3.949463
+CMM-SIMA-NCS,3543,6,5,4,105827,1,3,4,Critical,Critical,Critical,Critical,10.77188,4.127114
+CMM3 TA,670,100,4,3,28939,1,3,4,Critical,Critical,Critical,Critical,11.113625,4.1522837
+AMF3,301,150,2,2,4804,2,2,2,Major,Major,Major,Major,11.494783,3.6776607
+CMM-NIKE-181,377,655,8,5,4183,2,5,2,Major,Major,Major,Major,11.981161,4.0576553
+TC4-CMM-BILLA-SRN-BLR,105,291,7,3,2731,2,2,2,Major,Major,Major,Major,11.766961,3.6808963
+AMF NALA,352,630,4,4,1604,2,5,2,Major,Major,Major,Major,12.0401945,4.01734
+CMM-SPARROW,57,17,2,2,914,5,0,0,Major,Major,Major,Major,11.331093,2.9379241
+AMF-KODIAQ-SRN-BLR,228,250,2,2,747,2,2,2,Major,Major,Major,Major,11.74772,3.4990177
+CMM-NSA-04,24,35,1,3,590,5,0,0,Major,Major,Major,Major,11.465382,2.9111621
+AMF_JIll,132,298,4,8,506,2,2,2,Major,Major,Major,Major,11.899445,3.5793238
+cmm-apple-187,18,0,0,4,305,0,0,3,Major,Major,Major,Major,11.551049,2.6132596
+CMM1,94,2,1,3,207,0,0,0,Major,Major,Major,Major,11.495721,2.7279682
+CMM-LEO,20,49,5,6,88,0,0,0,Major,Major,Major,Major,11.765292,2.838072
+TCMM-Nexon-SRN-BLR,2,16,1,2,44,5,1,5,Major,Trivial,Trivial,Trivial,11.288265,2.7581136
+CMM-SLAB-SRN-BLR,9,20,1,1,40,3,1,5,Trivial,Trivial,Trivial,Trivial,11.21042,2.7766263
+CMM-INOX,12,20,1,4,38,0,0,0,Major,Major,Major,Major,11.597943,2.7175267
+TC4-CMM-DOLLY-SRN-BLR,54,24,3,3,36,0,0,0,Major,Major,Major,Major,11.5281,2.8257818
+AMF-SA-05,11,30,1,0,32,3,1,5,Trivial,Trivial,Trivial,Trivial,11.159734,2.805862
+NSA-06-CMM,9,12,1,3,20,0,0,0,Major,Major,Major,Major,11.492692,2.6593611
+AMF-SA-07,16,31,2,2,15,5,0,0,Major,Major,Major,Major,11.375697,2.8576524
+CMM-SUN,4,20,3,4,11,0,0,0,Major,Major,Major,Major,11.620814,2.7370706
+AMF-INFRA,1,34,1,2,7,5,0,0,Major,Major,Major,Major,11.356303,2.8490572
+CMM-JACK-SRN-ESPOO,4,14,1,0,1,3,1,5,Trivial,Trivial,Trivial,Trivial,11.117966,2.7038374
+CMM-01-B-SRN-ESPOO,0,0,0,3,0,0,1,3,Major,Trivial,Major,Major,11.418613,2.5388365
+CMM03-B-SRN-Espoo,0,0,0,3,0,0,1,3,Major,Trivial,Major,Major,11.418613,2.5388365
+CMM-VIVAN-NCS,1,1,3,6,0,0,0,3,Major,Major,Major,Major,11.70141,2.606539
+CMM-PETUNIA-SRN-ESPOO,0,2,0,3,0,0,1,3,Major,Trivial,Major,Major,11.426535,2.5482852
+CMM-JAMES-SRN-ESPOO,0,8,0,6,0,0,0,3,Major,Major,Major,Major,11.690237,2.590854
+CMM-PUMA-SRN-ESPOO,0,0,0,5,0,0,0,3,Major,Major,Major,Major,11.599034,2.5518508
+AMF-SLAB-BLR,7,18,2,2,0,5,1,5,Major,Trivial,Trivial,Trivial,11.302689,2.7878418
+AMF-GUMPERT-SRN-BLR,0,3,0,0,0,3,1,5,Trivial,Trivial,Trivial,Trivial,11.125387,2.6238606
+cMM_AMF-Blackbird-SRN-BLR,0,3,0,0,0,3,1,5,Trivial,Trivial,Trivial,Trivial,11.125387,2.6238606
+CMM-LOKI-NCS,0,0,1,2,0,3,1,3,Trivial,Trivial,Major,Trivial,11.304282,2.588343
+AMF-03-B,0,0,0,0,0,3,1,5,Trivial,Trivial,Trivial,Trivial,11.107758,2.6099322
+CMM-JERRY-NCS,0,0,0,2,0,3,1,3,Trivial,Trivial,Major,Trivial,11.2950115,2.5682101
+CMM-STINGRAY-SRN-ESPOO,0,8,0,0,0,3,1,5,Trivial,Trivial,Trivial,Trivial,11.107754,2.647966
